@@ -1,2 +1,2 @@
 # E-players-API
-<embed src="https://github.com/devyassin/E-players-API/blob/master/png2pdf.pdf" type="application/pdf" />
+<embed src="https://pdfhost.io/v/gYD5X~Fxc_png2pdf" type="application/pdf" />
