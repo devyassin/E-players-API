@@ -1,4 +1,4 @@
 # E-players-API
 
-[![Resume](https://pdfhost.io/v/gYD5X~Fxc_png2pdf)](https://pdfhost.io/v/gYD5X~Fxc_png2pdf)
+[![Resume](https://github.com/devyassin/E-players-API/blob/master/png2pdf.pdf)](https://github.com/devyassin/E-players-API/blob/master/png2pdf.pdf)
 
